@@ -1,90 +1,90 @@
 export const resumeData = {
   "template": 1,
-  "name": "Eric Salamba",
-  "job title": "Computer Scientist",
+  "name": "John Doe",
+  "job title": "Software Developer",
   "image": "",
-  "trade-mark": "© 2025 Eric Salamba. All rights reserved.",
+  "trade-mark": "© 2025 John Doe. All rights reserved.",
   "contact": {
-    "email": "ericsalamba@gmail.com",
-    "phone": "+254 724 530 004"
+    "email": "johndoe@example.com",
+    "phone": "+1 555-123-4567"
   },
   "social": {
-    "linkedin": "",
-    "github": "www.example.com"
+    "linkedin": "https://www.linkedin.com/in/johndoe",
+    "github": "https://github.com/johndoe"
   },
   "location": {
-    "country": "Kenya",
-    "city": "Kitengela"
+    "country": "United States",
+    "city": "New York"
   },
-  "description": "I am a Computer Scientist and aspiring Full-Stack Developer/Data Analyst with over 5 years of practical development experience across Python, JavaScript, and PHP, proficient in crafting web, desktop, and data analysis solutions. My greatest strength is self-motivation, enabling me to see projects through to completion, even when facing challenges. I have a talent for innovative problem-solving, as demonstrated by my work on an offline transcription bot. I'm passionate about designing efficient systems – a drive that led me to develop an AI-assisted resume web app aimed at simplifying professional document creation. I value creating impactful and streamlined technological solutions.",
-  "description 2": "I am a Full-Stack Developer with 5 years of experience in Python and 3 years in JavaScript, skilled in building robust web and desktop applications, with foundational expertise in data analysis. My greatest strength is self-motivation, which consistently drives me to complete projects on time, even under tight deadlines. I have a talent for learning quickly and tackling complex problems. I'm passionate about optimizing processes for efficiency, exemplified by my work on an AI-powered resume builder designed to streamline resume creation. I value innovative solutions that deliver tangible outcomes.",
-  "hobbies & interests": [],
+  "description": "I am a passionate software developer with experience building web and desktop applications. Skilled across multiple programming languages and frameworks, I enjoy solving problems and delivering efficient solutions.",
+  "description 2": "As a full-stack developer, I work comfortably with both frontend and backend technologies. I value clean code, scalability, and creating tools that improve productivity.",
+  "hobbies & interests": ["Reading", "Gaming", "Traveling"],
   "skills": {
     "programming languages": ["Python", "JavaScript", "TypeScript", "SQL", "PHP"],
     "frameworks": ["React.js", "Node.js", "Express", "Flask", "Django"],
     "databases": ["MySQL", "PostgreSQL", "MongoDB"],
-    "tools": ["Git", "Docker", "Postman", "Canva", "Krita", "Blender"],
+    "tools": ["Git", "Docker", "Postman", "Figma", "Canva"],
     "soft skills": ["Self-motivated", "Critical thinker", "Effective communicator", "Detail-oriented", "Adaptable"]
   },
   "work experience": [
     {
-      "job title": "Attachee",
-      "company": "Senate, Kenya",
-      "location": "Nairobi, Kenya",
-      "start date": "May 2024",
-      "end date": "August 2024",
+      "job title": "Software Intern",
+      "company": "Tech Solutions Inc.",
+      "location": "San Francisco, CA",
+      "start date": "June 2023",
+      "end date": "August 2023",
       "responsibilities": [
-        "Provided IT support",
-        "Worked on frontend for a project management system",
-        "Implemented UI improvements"
+        "Assisted in frontend development of a project management tool",
+        "Implemented UI improvements",
+        "Provided technical support and documentation"
       ]
     }
   ],
   "education": [
     {
-      "degree": "High School",
-      "institution": "Alliance High School",
-      "graduation date": "2021",
-      "honors": ["Grade A-", "Science and Robotics Club Member (4 years)"]
+      "degree": "High School Diploma",
+      "institution": "Springfield High School",
+      "graduation date": "2020",
+      "honors": ["Graduated with Honors", "Robotics Club Member (4 years)"]
     },
     {
       "degree": "Bachelor of Science in Computer Science",
-      "institution": "Jomo Kenyatta University of Agriculture and Technology",
+      "institution": "Example University",
       "graduation date": "Expected 2025"
-    },
+    }
   ],
   "projects": [
     {
       "name": "Project Management App",
-      "description": "React + Express + MySQL web app with user auth and dashboards.",
+      "description": "Web app with user authentication, dashboards, and task tracking.",
       "technologies": ["React", "Express", "MySQL"]
     },
     {
-      "name": "Shopping Website",
-      "description": "E-commerce site (React + PHP + MySQL, later MongoDB) with CMS and filtering.",
-      "technologies": ["React", "PHP", "MySQL", "MongoDB"]
+      "name": "E-commerce Website",
+      "description": "Online store with CMS, filtering, and shopping cart features.",
+      "technologies": ["React", "PHP", "MySQL"]
     },
     {
-      "name": "Final Year Project",
-      "description": "Audio transcription and NLP data extraction using Whisper and MongoDB.",
+      "name": "Capstone Project",
+      "description": "Audio transcription and NLP data extraction using machine learning.",
       "technologies": ["Python", "Whisper"]
     },
     {
-      "name": "Games (Python)",
-      "description": "Built Checkers, Chess, and Ping Pong games from scratch.",
+      "name": "Game Development",
+      "description": "Built Checkers, Chess, and Ping Pong games using Python.",
       "technologies": ["Python"]
     }
   ],
   "certifications": [
     {
       "name": "Advanced Python",
-      "issuing organization": "Institute of Software Technologies (IST), Nairobi",
-      "date": ""
+      "issuing organization": "Institute of Technology",
+      "date": "2023"
     },
     {
-      "name": "Azure Fundamentals (AZ-900)",
+      "name": "Cloud Fundamentals",
       "issuing organization": "Microsoft",
-      "date": ""
+      "date": "2024"
     }
   ]
 }
